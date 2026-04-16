@@ -1,0 +1,16 @@
+
+#other
+.idea/
+.virtual_documents/
+.vscode/
+
+#config
+config/config.py
+
+# environment
+.env
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
